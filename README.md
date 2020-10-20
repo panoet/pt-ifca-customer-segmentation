@@ -1,6 +1,10 @@
 # pt-ifca-customer-segmentation
 Repository ini untuk menyimpan tugas kuliah pengantar data science.
 
+Untuk menjalankan:
+1. klik launch binder di bawah
+2. run cluster_konsumen-1_rev[x].ipynb
+
 Referensi:
 
 https://blog.cambridgespark.com/how-to-determine-the-optimal-number-of-clusters-for-k-means-clustering-14f27070048f
