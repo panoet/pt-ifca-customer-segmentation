@@ -1,18 +1,18 @@
-nama_customer,simbol,pendapatan_tahunan,bidang_perusahaan,jumlah_karyawan,usia_perusahaan
-Urban Jakarta,o,1200,Developer,300,10
-Triyasa Propertindo,o,2100,Developer,355,7
-Synthesis,o,1750,Developer,405,5
-BTPN,o,3050,Developer,280,40
-Supermall,x,4120,Mall,250,20
-Jakarta Intiland,o,1100,Developer,110,15
-Windas,s,5004,Building Management,400,17
-Gamaland,s,3800,Building Management,250,18
-FX,x,2050,Mall,150,5
-Icon,o,3400,Developer,305,4
-Alfaland,x,4100,Mall,515,12
-Danamon,s,1850,Building Management,280,34
-Energy,s,1500,Building Management,175,10
-Jantra,o,2455,Developer,100,13
-Pakubuwono,x,2150,Mall,265,12
-Ramayana,x,7055,Mall,370,32
-Waskita,s,3580,Building Management,290,27
+nama_customer,simbol,bidang_perusahaan,pendapatan_tahunan,jumlah_karyawan,usia_perusahaan
+Urban Jakarta,o,Developer,1200,300,10
+Triyasa Propertindo,o,Developer,2100,355,7
+Synthesis,o,Developer,1750,405,5
+BTPN,o,Developer,3050,280,40
+Supermall,x,Mall,4120,250,20
+Jakarta Intiland,o,Developer,1100,110,15
+Windas,s,Building Management,5004,400,17
+Gamaland,s,Building Management,3800,250,18
+FX,x,Mall,2050,150,5
+Icon,o,Developer,3400,305,4
+Alfaland,x,Mall,4100,515,12
+Danamon,s,Building Management,1850,280,34
+Energy,s,Building Management,1500,175,10
+Jantra,o,Developer,2455,100,13
+Pakubuwono,x,Mall,2150,265,12
+Ramayana,x,Mall,7055,370,32
+Waskita,s,Building Management,3580,290,27
