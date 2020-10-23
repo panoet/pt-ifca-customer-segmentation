@@ -1,101 +1,101 @@
-nama_customer,simbol,bidang_perusahaan,pendapatan_tahunan,jumlah_karyawan,usia_perusahaan,,,
-Urban Jakarta,o,Developer,1200,300,10,,,Developer
-Triyasa Propertindo,o,Developer,2100,355,7,,,Mall
-Synthesis,o,Developer,1750,405,5,,,Building Management
-BTPN,o,Developer,3050,280,40,,,
-Supermall,x,Mall,4120,250,20,,,
-Jakarta Intiland,o,Developer,1100,110,15,,,
-Windas,s,Building Management,5004,400,17,,,
-Gamaland,s,Building Management,3800,250,18,,,
-FX,x,Mall,2050,150,5,,,
-Icon,o,Developer,3400,305,4,,,
-Alfaland,x,Mall,4100,515,12,,,
-Danamon,s,Building Management,1850,280,34,,,
-Energy,s,Building Management,1500,175,10,,,
-Jantra,o,Developer,2455,100,13,,,
-Pakubuwono,x,Mall,2150,265,12,,,
-Ramayana,x,Mall,7055,370,32,,,
-Waskita,s,Building Management,3580,290,27,,,
-,s,Building Management,3820,68,5,,,
-,o,Developer,1628,329,18,,,
-,o,Developer,2024,339,16,,,
-,o,Developer,2032,294,17,,,
-,s,Building Management,811,236,13,,,
-,s,Building Management,3265,252,11,,,
-,s,Building Management,2852,193,25,,,
-,o,Developer,844,178,13,,,
-,s,Building Management,3838,96,19,,,
-,s,Building Management,2711,220,21,,,
-,x,Mall,3175,199,7,,,
-,x,Mall,2359,83,13,,,
-,s,Building Management,2170,276,21,,,
-,s,Building Management,897,108,9,,,
-,s,Building Management,1085,244,23,,,
-,o,Developer,1173,234,24,,,
-,o,Developer,3367,123,23,,,
-,o,Developer,1678,249,21,,,
-,s,Building Management,2712,205,12,,,
-,o,Developer,2938,233,9,,,
-,o,Developer,3518,339,9,,,
-,o,Developer,1079,189,20,,,
-,s,Building Management,3222,224,10,,,
-,o,Developer,1462,233,22,,,
-,x,Mall,2348,166,19,,,
-,x,Mall,1095,281,12,,,
-,s,Building Management,3125,308,20,,,
-,s,Building Management,2605,70,19,,,
-,x,Mall,1307,270,19,,,
-,x,Mall,1302,106,21,,,
-,x,Mall,1957,321,13,,,
-,x,Mall,1048,93,12,,,
-,x,Mall,2577,167,13,,,
-,x,Mall,2886,175,21,,,
-,o,Developer,1442,284,12,,,
-,s,Building Management,2605,181,5,,,
-,x,Mall,3451,79,10,,,
-,s,Building Management,1221,318,8,,,
-,x,Mall,2122,145,16,,,
-,s,Building Management,2128,198,12,,,
-,o,Developer,2792,136,24,,,
-,o,Developer,1487,252,16,,,
-,o,Developer,1050,170,6,,,
-,s,Building Management,3353,327,22,,,
-,s,Building Management,1325,108,13,,,
-,s,Building Management,2709,133,8,,,
-,x,Mall,3862,62,25,,,
-,x,Mall,2512,64,14,,,
-,o,Developer,1124,282,22,,,
-,o,Developer,851,212,9,,,
-,s,Building Management,1213,329,23,,,
-,o,Developer,1289,244,10,,,
-,o,Developer,1876,243,17,,,
-,s,Building Management,2234,60,22,,,
-,x,Mall,1802,194,13,,,
-,o,Developer,1341,341,15,,,
-,x,Mall,3013,266,12,,,
-,x,Mall,2778,75,11,,,
-,x,Mall,2231,128,7,,,
-,x,Mall,2723,171,17,,,
-,o,Developer,3013,85,22,,,
-,x,Mall,2422,58,17,,,
-,o,Developer,3041,121,25,,,
-,s,Building Management,2020,87,15,,,
-,x,Mall,2982,66,22,,,
-,s,Building Management,2014,289,8,,,
-,s,Building Management,3745,128,21,,,
-,o,Developer,1178,319,11,,,
-,x,Mall,2904,248,15,,,
-,o,Developer,1696,216,13,,,
-,x,Mall,1128,260,12,,,
-,s,Building Management,3458,228,10,,,
-,s,Building Management,2722,97,18,,,
-,x,Mall,2514,155,11,,,
-,s,Building Management,1021,147,10,,,
-,s,Building Management,3609,226,6,,,
-,s,Building Management,2263,91,16,,,
-,s,Building Management,1942,260,22,,,
-,s,Building Management,1221,226,24,,,
-,o,Developer,3691,266,24,,,
-,x,Mall,2283,222,15,,,
-,x,Mall,3812,103,14,,,
-,x,Mall,1173,194,11,,,
+nama_customer,simbol,bidang_perusahaan,pendapatan_tahunan,jumlah_karyawan,usia_perusahaan
+Urban Jakarta,o,Developer,1200,300,10
+Triyasa Propertindo,o,Developer,2100,355,7
+Synthesis,o,Developer,1750,405,5
+BTPN,o,Developer,3050,280,40
+Supermall,x,Mall,4120,250,20
+Jakarta Intiland,o,Developer,1100,110,15
+Windas,s,Building Management,5004,400,17
+Gamaland,s,Building Management,3800,250,18
+FX,x,Mall,2050,150,5
+Icon,o,Developer,3400,305,4
+Alfaland,x,Mall,4100,515,12
+Danamon,s,Building Management,1850,280,34
+Energy,s,Building Management,1500,175,10
+Jantra,o,Developer,2455,100,13
+Pakubuwono,x,Mall,2150,265,12
+Ramayana,x,Mall,7055,370,32
+Waskita,s,Building Management,3580,290,27
+,s,Building Management,3820,68,5
+,o,Developer,1628,329,18
+,o,Developer,2024,339,16
+,o,Developer,2032,294,17
+,s,Building Management,811,236,13
+,s,Building Management,3265,252,11
+,s,Building Management,2852,193,25
+,o,Developer,844,178,13
+,s,Building Management,3838,96,19
+,s,Building Management,2711,220,21
+,x,Mall,3175,199,7
+,x,Mall,2359,83,13
+,s,Building Management,2170,276,21
+,s,Building Management,897,108,9
+,s,Building Management,1085,244,23
+,o,Developer,1173,234,24
+,o,Developer,3367,123,23
+,o,Developer,1678,249,21
+,s,Building Management,2712,205,12
+,o,Developer,2938,233,9
+,o,Developer,3518,339,9
+,o,Developer,1079,189,20
+,s,Building Management,3222,224,10
+,o,Developer,1462,233,22
+,x,Mall,2348,166,19
+,x,Mall,1095,281,12
+,s,Building Management,3125,308,20
+,s,Building Management,2605,70,19
+,x,Mall,1307,270,19
+,x,Mall,1302,106,21
+,x,Mall,1957,321,13
+,x,Mall,1048,93,12
+,x,Mall,2577,167,13
+,x,Mall,2886,175,21
+,o,Developer,1442,284,12
+,s,Building Management,2605,181,5
+,x,Mall,3451,79,10
+,s,Building Management,1221,318,8
+,x,Mall,2122,145,16
+,s,Building Management,2128,198,12
+,o,Developer,2792,136,24
+,o,Developer,1487,252,16
+,o,Developer,1050,170,6
+,s,Building Management,3353,327,22
+,s,Building Management,1325,108,13
+,s,Building Management,2709,133,8
+,x,Mall,3862,62,25
+,x,Mall,2512,64,14
+,o,Developer,1124,282,22
+,o,Developer,851,212,9
+,s,Building Management,1213,329,23
+,o,Developer,1289,244,10
+,o,Developer,1876,243,17
+,s,Building Management,2234,60,22
+,x,Mall,1802,194,13
+,o,Developer,1341,341,15
+,x,Mall,3013,266,12
+,x,Mall,2778,75,11
+,x,Mall,2231,128,7
+,x,Mall,2723,171,17
+,o,Developer,3013,85,22
+,x,Mall,2422,58,17
+,o,Developer,3041,121,25
+,s,Building Management,2020,87,15
+,x,Mall,2982,66,22
+,s,Building Management,2014,289,8
+,s,Building Management,3745,128,21
+,o,Developer,1178,319,11
+,x,Mall,2904,248,15
+,o,Developer,1696,216,13
+,x,Mall,1128,260,12
+,s,Building Management,3458,228,10
+,s,Building Management,2722,97,18
+,x,Mall,2514,155,11
+,s,Building Management,1021,147,10
+,s,Building Management,3609,226,6
+,s,Building Management,2263,91,16
+,s,Building Management,1942,260,22
+,s,Building Management,1221,226,24
+,o,Developer,3691,266,24
+,x,Mall,2283,222,15
+,x,Mall,3812,103,14
+,x,Mall,1173,194,11
